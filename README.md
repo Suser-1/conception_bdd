@@ -3,7 +3,7 @@
 
 ## 1. Contexte du projet
 
-Ce projet a été réalisé dans le cadre de la formation **Développeur en intelligence artificielle (RNCP Niveau 6)**.
+Ce projet a été réalisé dans le cadre de la formation **Développeur en intelligence artificielle (Titre RNCP niveau 6)**.
 
 L'objectif est de concevoir et normaliser une **base de données de ventes de jeux vidéo**, en intégrant les bonnes pratiques **RGPD** dès la conception (privacy by design).
 
